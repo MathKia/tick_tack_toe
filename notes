@@ -1,0 +1,11 @@
+Make Tick Tack Toe game:
+
+    1. mode to play computer
+        - user always starts as 'x'
+    2. mode to play multi-player
+        - player 1 always starts as 'x'
+
+    - input to console --> grid game play
+
+    - figure out how to determine if the game is won by X or O
+    - instead of randomizing the computer's moves, see if you can give it strategy in its plays so it also tries to win
